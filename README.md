@@ -19,7 +19,7 @@ Este es un backend desarrollado con TypeScript, Express y TypeORM que proporcion
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone git https://github.com/juanarango1/examen-backend.git
 ```
 
 2. Instalar dependencias:
@@ -101,6 +101,4 @@ La API proporciona los siguientes endpoints:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📝 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
